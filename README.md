@@ -87,6 +87,14 @@ python excel_filter_tool.py
 Go to https://github.com/HarshKhatri-2000/Excel-Filter-Tool_Multi-Sheet/releases
 and download the latest .exe file. "No Python needed!"
 
+## Option 3: Run Setup.py
+
+Run Below Command
+```
+py -m pip install .
+```
+This will make all the necessary Files
+
 
 ## ⭐ Star This Repo!
 If this tool saved you time, give it a ⭐ — it helps others find it too!
