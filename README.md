@@ -4,10 +4,6 @@
 
 \### Split \& Filter Excel Files by Column Values — In Seconds!
 
-\[!\[Python](https://img.shields.io/badge/Python-3.7%2B-blue?style=for-the-badge\&logo=python\&logoColor=white)](https://python.org)
-
-\[!\[License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
-
 \[!\[Platform](https://img.shields.io/badge/Platform-Windows-lightgrey?style=for-the-badge\&logo=windows)](https://github.com/HarshKhatri-2000/Excel-Filter-Tool)
 
 \[!\[Version](https://img.shields.io/badge/Version-11.0-orange?style=for-the-badge)](https://github.com/HarshKhatri-2000/Excel-Filter-Tool/releases)
