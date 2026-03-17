@@ -4,7 +4,7 @@
 
 \### Split \& Filter Excel Files by Column Values — In Seconds!
 
-\*\*Built with ❤️ by \[HARSH KHATRI] ([https://github.com/HarshKhatri-2000](https://github.com/HarshKhatri-2000?tab=repositories))\*\*
+\*\*Built with ❤️ by \[HARSH KHATRI] ([https://github.com/HarshKhatri-2000](https://github.com/HarshKhatri-2000?tab=repositories)
 
 \---
 
