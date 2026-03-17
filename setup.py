@@ -12,7 +12,7 @@ setup(
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/HarshKhatri-2000/Excel-Filter-Tool_Multi-Sheet",
-    py_modules=["Excel_Sheet_Filter_Multple_Sheet"],   # ← Matches your filename!
+    py_modules=["Excel_Sheet_Filter_Multple_Sheet"],
     python_requires=">=3.7",
     install_requires=[
         "openpyxl>=3.0.0",
@@ -20,7 +20,7 @@ setup(
     entry_points={
         "console_scripts": [
             "excel-filter-tool=Excel_Sheet_Filter_Multple_Sheet:main",
-        ],                  #  ↑ Must match your filename too!
+        ],
     },
     classifiers=[
         "Programming Language :: Python :: 3",
