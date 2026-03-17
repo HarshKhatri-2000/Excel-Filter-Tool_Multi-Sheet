@@ -1,18 +1,14 @@
 <div align="center">
+  
+📊 Excel Filter Tool v11.0
 
-\# 📊 Excel Filter Tool v11.0
+Split \& Filter Excel Files by Column Values — In Seconds!
 
-\### Split \& Filter Excel Files by Column Values — In Seconds!
+Built with ❤️ by HARSH KHATRI https://github.com/HarshKhatri-2000?tab=repositories
 
-Built with ❤️ by HARSH KHATRI (https://github.com/HarshKhatri-2000?tab=repositories)
+Got a massive Excel file with hundreds of employees under different managers?\*  
 
-\---
-
-\*Got a massive Excel file with hundreds of employees under different managers?\*  
-
-\*Need separate files for each manager? This tool does it in ONE click.\*
-
-\[⬇️ Download](#-quick-install) · \[🚀 Features](#-features) · \[📖 How to Use](#-how-to-use) · \[🐛 Report Bug](https://github.com/YOUR\_USERNAME/Excel-Filter-Tool/issues)
+Need separate files for each manager? This tool does it in ONE click.\*
 
 </div>
 
