@@ -4,15 +4,15 @@ with open("README.md", "r", encoding="utf-8") as f:
     long_description = f.read()
 
 setup(
-    name="excel-filter-tool",
+    name="Excel Sheet_Filter Multple Sheet",
     version="11.0.0",
     author="HARSH KHATRI",
-    author_email="your.email@example.com",          # ← Put your email
+    author_email="harshkhatri.pro@gmail.com",
     description="Filter & Split Excel files by column values with a simple GUI",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/YOUR_USERNAME/Excel-Filter-Tool",  # ← Put your username
-    py_modules=["excel_filter_tool"],
+    url="https://github.com/HarshKhatri-2000/Excel-Filter-Tool_Multi-Sheet",  # ← Put your username
+    py_modules=["Excel Sheet_Filter Multple Sheet"],
     python_requires=">=3.7",
     install_requires=[
         "openpyxl>=3.0.0",
