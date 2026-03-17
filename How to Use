@@ -1,0 +1,15 @@
+Step-by-Step Guide
+1️⃣  Click "Browse" → Select your Excel file (.xlsx or .xlsm)
+
+2️⃣  Choose which Sheet to process (or leave as "ALL")
+
+3️⃣  Select the Column that contains the values you want to split by
+     Example: Column E has manager names
+
+4️⃣  Click "Load Data" → Tool scans and shows all unique values
+
+5️⃣  Select the values you want (or click "Select All")
+
+6️⃣  Choose your output folder
+
+7️⃣  Click "PROCESS FILES" → Done! 🎉
