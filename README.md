@@ -61,7 +61,8 @@ Imagine you have an Excel file like this:
 **Step 2:** Clone this repo
 ```bash
 git clone https://github.com/HarshKhatri-2000/Excel-Filter-Tool_Multi-Sheet.git
-cd Excel-Filter-Tool
+
+cd "Your Path"
 ```
 
 **Step 3:** Install dependencies
