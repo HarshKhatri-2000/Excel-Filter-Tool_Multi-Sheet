@@ -69,6 +69,12 @@ cd "Your Path"
 ```
 pip install -r requirements.txt
 ```
+OR
+
+```
+py -m pip install -r requirements.txt
+
+```
 
 **Step 4:** Run the GUI Python File
 
