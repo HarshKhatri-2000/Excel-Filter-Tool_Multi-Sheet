@@ -1,0 +1,74 @@
+# ===========================
+# Python
+# ===========================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+*.manifest
+*.spec
+
+# ===========================
+# Virtual Environment
+# ===========================
+venv/
+env/
+ENV/
+.venv/
+
+# ===========================
+# IDE Files
+# ===========================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.pydevproject
+
+# ===========================
+# OS Files
+# ===========================
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# ===========================
+# Excel / Output Files
+# ===========================
+Filtered_Output/
+*.xlsx
+*.xlsm
+*.xls
+!example/sample_input.xlsx
+
+# ===========================
+# Logs
+# ===========================
+*.log
+*.txt
+!requirements.txt
+!README.md
+
+# ===========================
+# PyInstaller
+# ===========================
+*.exe
+*.dll
+*.pyd
+
+# ===========================
+# Misc
+# ===========================
+.env
+.env.local
+*.bak
+*.tmp
+*.temp
